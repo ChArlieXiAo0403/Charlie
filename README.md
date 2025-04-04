@@ -16,4 +16,4 @@ Studying cs now
 [![](https://visitcount.itsvg.in/api?id=ChArlieXiAo0403&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/C/ChArlieXiAo0403/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/C/ChArlieXiAo0403/ChArlieXiAo0403/blob/output/github-snake-dark.svg)
